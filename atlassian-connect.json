@@ -2,7 +2,7 @@
    "name": "Welcome",
    "description": "Atlassian Connect app",
    "key": "com.heroku.convertmenow",
-   "baseUrl": "https://convertmenow.herokuapp.com/",
+   "baseUrl": "https://priyacs.atlassian.net",
    "vendor": {
        "name": "Meditate and Peace.",
        "url": "https://convertmenow.herokuapp.com/"
