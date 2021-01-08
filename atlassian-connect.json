@@ -1,11 +1,11 @@
 {
-   "name": "Hello World",
+   "name": "Welcome",
    "description": "Atlassian Connect app",
-   "key": "com.example.myapp",
-   "baseUrl": "https://<placeholder-url>",
+   "key": "com.heroku.convertmenow",
+   "baseUrl": "https://convertmenow.herokuapp.com/",
    "vendor": {
-       "name": "Example, Inc.",
-       "url": "http://example.com"
+       "name": "Meditate and Peace.",
+       "url": "https://convertmenow.herokuapp.com/"
    },
    "authentication": {
        "type": "none"
@@ -14,7 +14,7 @@
    "modules": {
        "generalPages": [
            {
-               "url": "/helloworld.html",
+               "url": "https://convertmenow.herokuapp.com/",
                "key": "hello-world",
                "location": "system.top.navigation.bar",
                "name": {
