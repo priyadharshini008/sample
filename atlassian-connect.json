@@ -1,0 +1,26 @@
+{
+   "name": "Welcome",
+   "description": "Atlassian Connect app",
+   "key": "com.heroku.convertmenow",
+   "baseUrl": "https://priyacs.atlassian.net",
+   "vendor": {
+       "name": "Meditate and Peace.",
+       "url": "https://convertmenow.herokuapp.com/"
+   },
+   "authentication": {
+       "type": "none"
+   },
+   "apiVersion": 1,
+   "modules": {
+       "generalPages": [
+           {
+               "url": "https://convertmenow.herokuapp.com/",
+               "key": "hello-world",
+               "location": "system.top.navigation.bar",
+               "name": {
+                   "value": "Greeting"
+               }
+           }
+       ]
+   }
+}
